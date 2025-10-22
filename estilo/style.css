@@ -2,5 +2,15 @@
 
 :root {
     --cor01: #A6A6A6;
+    --cor02: #737373;
+    --cor03: #3D3E40;
+    --cor04: #262626;
+    --cor05: #0D0D0D;
+
+    --fonte-padrao: Arial, Helvetica, sans-serif;
+    --fonte-titulo:
+}
+
+body {
     
 }
